@@ -1,5 +1,7 @@
 # PhysicsEngine
 
+Author: Jack Lindsey
+
 A 2D physics simulation program written in Java.  Supports collisions between convex polygons and circles, remote attractive/repulsive forces (e.g. universal gravitation), "Earth-style" downward gravitation, springs (damped and simple), and friction.  Comes with 6 preconfigured demos of the engine's various capabilities.
 
 Instructions:
